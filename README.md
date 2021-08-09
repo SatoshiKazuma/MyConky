@@ -2,6 +2,7 @@
 This is my new conky config file
 
 **Set Up**
+
 1.Clone repo 
 
 2.Install conky
