@@ -1,7 +1,10 @@
 # MyConky
 This is my new conky config file
 
-##**Set Up**
+![Conkyone](https://user-images.githubusercontent.com/88662373/128711092-239cbbac-bcf2-4d52-aac9-4cdc7dbd17c8.png)
+Dock not included
+
+## **Set Up**
 
 1.Clone repo 
 
@@ -18,3 +21,5 @@ This is my new conky config file
   b. Change the <network_name> in the code to match your network name
   
   you can find you network name by using `ip link show`
+
+## Thank you for visiting
