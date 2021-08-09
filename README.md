@@ -17,4 +17,4 @@ This is my new conky config file
   
   b. Change the <network_name> in the code to match your network name
   
-  you can find you network name by using 'ip link show'
+  you can find you network name by using `ip link show`
