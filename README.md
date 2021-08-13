@@ -1,5 +1,4 @@
 # MyConky
-This is my new conky config file
 
 ![Conkyone](https://user-images.githubusercontent.com/88662373/128711092-239cbbac-bcf2-4d52-aac9-4cdc7dbd17c8.png)
 Dock not included
